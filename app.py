@@ -69,11 +69,11 @@ def main():
                 else:
                     print(f"Фильмы за {year} не найдены.")
             except ValueError:
-                print("Ошибка: год должен быть числом.")
+                print("Ошибка: год должен быть числом!!!!!!!!")
 
         elif choice == "0":
             save_movies(DATA_FILE, movies)
-            print("До свидания!")
+            print("LДо скорой встречи!")
             break
 
         else:
