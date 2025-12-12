@@ -79,6 +79,6 @@ def main():
         else:
             print("Неверный пункт меню.")
 
-
+# Степан
 if __name__ == "__main__":
     main()
